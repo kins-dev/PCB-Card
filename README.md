@@ -33,3 +33,7 @@ You may want to use [https://www.qrcode-monkey.com/](https://www.qrcode-monkey.c
 ### PCB Manufacturing
 
 This template is already setup for [JLCPCB](https://jlcpcb.com/).  Silk screen text must be at least 6 mils thick and solder mask can be much smaller.  Additionally I found [JLCPCB](https://jlcpcb.com/) had the best price for 0.4 mm thick boards with ENIG processing.  If you use another thickness (0.6 mm for example) make sure you use ENIG or HASL Lead Free processing.  ENIG looks the best.  Finally [JLCPCB](https://jlcpcb.com/) allows you to specify where the tracking number goes on your board.  That is part of this template.  If you use another board house, they may put the ID number somewhere undesirable.
+
+## Finishing Touches
+
+This is a panel to give you the most value per board.  You will have to duplicate your changes on both sides to each board.  Also, when you get your boards you will need to break them apart yourself.  This is fairly easy with thin boards.  Just lay them flat against the edge of a table, half hanging over the edge and press down to snap at the tabs.  Use needle nose plyers to clean up tabs that didn't break off one side or the other.  Finally, use a wire and the hole to align the cards, wear a mask and sand down the edge until it is nice and smooth.  You can snap 25 cards at once and sand 50 from my own experiences.  YMMV.
